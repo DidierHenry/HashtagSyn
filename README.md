@@ -29,7 +29,7 @@ How it works?
 
 java -jar HashtagSyn.jar [#hashtag]
 
-        Example: java -jar HashtagSyn.jar #ps4
+        Example: java -jar HashtagSyn.jar "#ps4"
 
 ---------------------------------------------------------------------------
 Developped by Didier Henry PhD student in computer science at the University of French West Indies (Guadeloupe)
