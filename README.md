@@ -1,7 +1,7 @@
 # HashtagSyn
 HashtagSyn is a tool design for find the top related hashtags to a hashtag.
 
-HashtagSyn improves the pertinence and the coherence of hashtags found compared to a simple research.
+HashtagSyn improves the readability and the relevancy of hashtags found compared to a simple research.
 
 For instance:
 
